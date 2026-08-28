@@ -87,7 +87,7 @@ In addition to static publication figures, this repository includes an **executi
 ## 💡 Core Analytical & Econometric Metrics
 
 ### 1. Affordability Burden Ratio (ABR)
-$$\text{Affordability Burden Ratio} = \frac{\text{Annualized Median Infant Care Price (Weekly Price} \times 52)}{\text{County Median Household Income (\$)}} \times 100$$
+$$\text{Affordability Burden Ratio} = \frac{\text{Annualized Median Infant Care Price (Weekly Price} \times 52)}{\text{County Median Household Income (USD)}} \times 100$$
 * **Friction Point**: Measures the proportion of gross household income required to sustain center-based infant care. In numerous metropolitan counties, this ratio exceeds **25%–35%**, far above the US Department of Health and Human Services (HHS) recommended affordability benchmark of **7%**.
 
 ### 2. Temporal Inflation Velocity (TIV)
