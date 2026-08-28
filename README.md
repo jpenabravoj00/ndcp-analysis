@@ -79,8 +79,9 @@ In addition to static publication figures, this repository includes an **executi
   * Multi-dimensional state and regional filtering with zoom and panning.
   * Executive KPI metric cards tracking overall growth and elasticity coefficients.
 * **How to view**:
-  * **Option 1 (Local Browser)**: Open `reports/ndcp_interactive_report.html` directly in any web browser.
-  * **Option 2 (Interactive Jupyter Notebooks)**: Run `notebooks/` directly for live cell execution and dynamic exploration.
+  * **Option 1 (Live Interactive Demo on GitHub Pages)**: [**Launch Live Report on GitHub Pages**](https://jpenabravoj00.github.io/ndcp-analysis/)
+  * **Option 2 (Local Browser)**: Clone this repo and open `reports/ndcp_interactive_report.html` or `index.html` in any web browser.
+  * **Option 3 (Interactive Jupyter Notebooks)**: Run notebooks locally for live cell execution and parameter exploration.
 
 ---
 

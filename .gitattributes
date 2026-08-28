@@ -1,6 +1,7 @@
 # Linguist language detection overrides
 # Hide generated interactive HTML reports and large data from GitHub language statistics
 *.html linguist-vendored
+index.html linguist-vendored
 ndcp_interactive_report.html linguist-vendored
 reports/*.html linguist-vendored
 
