@@ -306,7 +306,7 @@ html_content = f"""<!DOCTYPE html>
 </html>
 """
 
-report_path = "ndcp_interactive_report.html"
+report_path = "reports/ndcp_interactive_report.html"
 with open(report_path, "w", encoding="utf-8") as f:
     f.write(html_content)
 print(f"Saved interactive report: {report_path}")
